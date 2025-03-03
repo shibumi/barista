@@ -20,10 +20,10 @@ import (
 
 	godbus "github.com/godbus/dbus/v5"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/watchers/dbus"
-	"github.com/soumya92/barista/outputs"
-	testBar "github.com/soumya92/barista/testing/bar"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/watchers/dbus"
+	"github.com/shibumi/barista/outputs"
+	testBar "github.com/shibumi/barista/testing/bar"
 )
 
 func TestDevice(t *testing.T) {

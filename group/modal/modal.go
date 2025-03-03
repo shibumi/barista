@@ -37,14 +37,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/click"
-	"github.com/soumya92/barista/base/notifier"
-	"github.com/soumya92/barista/colors"
-	"github.com/soumya92/barista/group"
-	l "github.com/soumya92/barista/logging"
-	"github.com/soumya92/barista/outputs"
-	"github.com/soumya92/barista/timing"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/click"
+	"github.com/shibumi/barista/base/notifier"
+	"github.com/shibumi/barista/colors"
+	"github.com/shibumi/barista/group"
+	l "github.com/shibumi/barista/logging"
+	"github.com/shibumi/barista/outputs"
+	"github.com/shibumi/barista/timing"
 )
 
 const (

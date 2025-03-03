@@ -31,8 +31,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/soumya92/barista/pango"
-	"github.com/soumya92/barista/pango/icons"
+	"github.com/shibumi/barista/pango"
+	"github.com/shibumi/barista/pango/icons"
 
 	"github.com/spf13/afero"
 )

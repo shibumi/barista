@@ -17,9 +17,9 @@ package icons
 import (
 	"testing"
 
-	"github.com/soumya92/barista/colors"
-	"github.com/soumya92/barista/pango"
-	pangoTesting "github.com/soumya92/barista/testing/pango"
+	"github.com/shibumi/barista/colors"
+	"github.com/shibumi/barista/pango"
+	pangoTesting "github.com/shibumi/barista/testing/pango"
 
 	"github.com/stretchr/testify/require"
 )

@@ -21,12 +21,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/core"
-	l "github.com/soumya92/barista/logging"
-	"github.com/soumya92/barista/oauth"
-	"github.com/soumya92/barista/testing/output"
-	"github.com/soumya92/barista/timing"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/core"
+	l "github.com/shibumi/barista/logging"
+	"github.com/shibumi/barista/oauth"
+	"github.com/shibumi/barista/testing/output"
+	"github.com/shibumi/barista/timing"
 
 	"github.com/stretchr/testify/require"
 )

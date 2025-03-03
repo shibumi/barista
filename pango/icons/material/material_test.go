@@ -17,10 +17,10 @@ package material
 import (
 	"testing"
 
-	"github.com/soumya92/barista/pango"
-	"github.com/soumya92/barista/testing/cron"
-	"github.com/soumya92/barista/testing/githubfs"
-	pangoTesting "github.com/soumya92/barista/testing/pango"
+	"github.com/shibumi/barista/pango"
+	"github.com/shibumi/barista/testing/cron"
+	"github.com/shibumi/barista/testing/githubfs"
+	pangoTesting "github.com/shibumi/barista/testing/pango"
 
 	"github.com/spf13/afero"
 	"github.com/stretchr/testify/require"

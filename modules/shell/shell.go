@@ -25,11 +25,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/notifier"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/outputs"
-	"github.com/soumya92/barista/timing"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/notifier"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/outputs"
+	"github.com/shibumi/barista/timing"
 )
 
 // Module represents a shell module that updates on a timer or on demand.

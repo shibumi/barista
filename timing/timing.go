@@ -39,7 +39,7 @@ package timing
 import (
 	"time"
 
-	"github.com/soumya92/barista/base/watchers/localtz"
+	"github.com/shibumi/barista/base/watchers/localtz"
 )
 
 // Now returns the current time, in the machine's local time zone.

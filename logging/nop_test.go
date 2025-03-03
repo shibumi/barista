@@ -20,7 +20,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/soumya92/barista/testing/mockio"
+	"github.com/shibumi/barista/testing/mockio"
 
 	"github.com/stretchr/testify/require"
 )

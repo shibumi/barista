@@ -20,10 +20,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/outputs"
-	testBar "github.com/soumya92/barista/testing/bar"
-	testModule "github.com/soumya92/barista/testing/module"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/outputs"
+	testBar "github.com/shibumi/barista/testing/bar"
+	testModule "github.com/shibumi/barista/testing/module"
 )
 
 func TestReformat(t *testing.T) {

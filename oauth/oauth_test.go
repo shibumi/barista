@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/soumya92/barista/testing/mockio"
+	"github.com/shibumi/barista/testing/mockio"
 
 	"github.com/spf13/afero"
 	"github.com/stretchr/testify/require"

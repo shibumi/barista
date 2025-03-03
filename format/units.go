@@ -21,7 +21,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/soumya92/barista/base/value"
+	"github.com/shibumi/barista/base/value"
 	"github.com/martinlindhe/unit"
 )
 

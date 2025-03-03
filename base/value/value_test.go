@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/soumya92/barista/testing/notifier"
+	"github.com/shibumi/barista/testing/notifier"
 	"github.com/stretchr/testify/require"
 )
 

@@ -20,9 +20,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/soumya92/barista/modules/weather"
-	"github.com/soumya92/barista/testing/cron"
-	testServer "github.com/soumya92/barista/testing/httpserver"
+	"github.com/shibumi/barista/modules/weather"
+	"github.com/shibumi/barista/testing/cron"
+	testServer "github.com/shibumi/barista/testing/httpserver"
 
 	"github.com/martinlindhe/unit"
 	"github.com/stretchr/testify/require"

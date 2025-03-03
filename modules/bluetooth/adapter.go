@@ -16,9 +16,9 @@
 package bluetooth
 
 import (
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/base/watchers/dbus"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/base/watchers/dbus"
 )
 
 // AdapterModule represents a Bluetooth bar module.

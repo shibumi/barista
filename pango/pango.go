@@ -38,9 +38,9 @@ import (
 	"fmt"
 	"html"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/format"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/format"
 )
 
 type nodeType int

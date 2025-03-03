@@ -36,7 +36,7 @@ package icons
 import (
 	"strconv"
 
-	"github.com/soumya92/barista/pango"
+	"github.com/shibumi/barista/pango"
 )
 
 // Provider provides pango nodes for icons

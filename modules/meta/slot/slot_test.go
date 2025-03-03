@@ -17,10 +17,10 @@ package slot
 import (
 	"testing"
 
-	"github.com/soumya92/barista/modules/static"
-	"github.com/soumya92/barista/outputs"
-	testBar "github.com/soumya92/barista/testing/bar"
-	testModule "github.com/soumya92/barista/testing/module"
+	"github.com/shibumi/barista/modules/static"
+	"github.com/shibumi/barista/outputs"
+	testBar "github.com/shibumi/barista/testing/bar"
+	testModule "github.com/shibumi/barista/testing/module"
 )
 
 func TestReformat(t *testing.T) {

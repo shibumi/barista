@@ -25,12 +25,12 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/click"
-	"github.com/soumya92/barista/base/notifier"
-	"github.com/soumya92/barista/group"
-	l "github.com/soumya92/barista/logging"
-	"github.com/soumya92/barista/outputs"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/click"
+	"github.com/shibumi/barista/base/notifier"
+	"github.com/shibumi/barista/group"
+	l "github.com/shibumi/barista/logging"
+	"github.com/shibumi/barista/outputs"
 )
 
 // ButtonFunc produces outputs for buttons in a collapsing group.

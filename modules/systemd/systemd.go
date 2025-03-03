@@ -19,12 +19,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/base/watchers/dbus"
-	"github.com/soumya92/barista/base/watchers/localtz"
-	"github.com/soumya92/barista/outputs"
-	"github.com/soumya92/barista/timing"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/base/watchers/dbus"
+	"github.com/shibumi/barista/base/watchers/localtz"
+	"github.com/shibumi/barista/outputs"
+	"github.com/shibumi/barista/timing"
 
 	systemdbus "github.com/coreos/go-systemd/v22/dbus"
 )

@@ -19,10 +19,10 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/outputs"
-	testBar "github.com/soumya92/barista/testing/bar"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/outputs"
+	testBar "github.com/shibumi/barista/testing/bar"
 
 	"golang.org/x/time/rate"
 )

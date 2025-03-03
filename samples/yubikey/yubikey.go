@@ -21,9 +21,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/outputs"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/outputs"
 
 	"github.com/maximbaz/yubikey-touch-detector/detector"
 	ykNotifier "github.com/maximbaz/yubikey-touch-detector/notifier"

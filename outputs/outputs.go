@@ -18,9 +18,9 @@ package outputs
 import (
 	"fmt"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/format"
-	"github.com/soumya92/barista/pango"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/format"
+	"github.com/shibumi/barista/pango"
 )
 
 // Errorf constructs a bar output that indicates an error,

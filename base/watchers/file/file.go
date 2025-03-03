@@ -21,8 +21,8 @@ import (
 	"path/filepath"
 	"sync/atomic"
 
-	"github.com/soumya92/barista/base/notifier"
-	l "github.com/soumya92/barista/logging"
+	"github.com/shibumi/barista/base/notifier"
+	l "github.com/shibumi/barista/logging"
 
 	"github.com/fsnotify/fsnotify"
 )

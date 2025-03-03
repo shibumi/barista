@@ -19,12 +19,12 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/colors"
-	testBar "github.com/soumya92/barista/testing/bar"
-	testModule "github.com/soumya92/barista/testing/module"
-	"github.com/soumya92/barista/testing/output"
-	"github.com/soumya92/barista/timing"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/colors"
+	testBar "github.com/shibumi/barista/testing/bar"
+	testModule "github.com/shibumi/barista/testing/module"
+	"github.com/shibumi/barista/testing/output"
+	"github.com/shibumi/barista/timing"
 
 	colorful "github.com/lucasb-eyer/go-colorful"
 	"github.com/stretchr/testify/require"

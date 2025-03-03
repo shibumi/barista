@@ -19,8 +19,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/outputs"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/outputs"
 
 	"github.com/stretchr/testify/require"
 )

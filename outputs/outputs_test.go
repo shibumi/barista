@@ -20,10 +20,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/format"
-	"github.com/soumya92/barista/pango"
-	pangoTesting "github.com/soumya92/barista/testing/pango"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/format"
+	"github.com/shibumi/barista/pango"
+	pangoTesting "github.com/shibumi/barista/testing/pango"
 
 	"github.com/martinlindhe/unit"
 	"github.com/stretchr/testify/require"

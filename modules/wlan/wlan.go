@@ -23,11 +23,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/base/watchers/netlink"
-	l "github.com/soumya92/barista/logging"
-	"github.com/soumya92/barista/outputs"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/base/watchers/netlink"
+	l "github.com/shibumi/barista/logging"
+	"github.com/shibumi/barista/outputs"
 	"github.com/martinlindhe/unit"
 )
 

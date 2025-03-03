@@ -24,8 +24,8 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	l "github.com/soumya92/barista/logging"
-	"github.com/soumya92/barista/timing/internal/timerfd"
+	l "github.com/shibumi/barista/logging"
+	"github.com/shibumi/barista/timing/internal/timerfd"
 )
 
 var _ schedulerImpl = &timerfdScheduler{}

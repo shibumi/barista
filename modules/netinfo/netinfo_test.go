@@ -17,10 +17,10 @@ package netinfo
 import (
 	"testing"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/watchers/netlink"
-	"github.com/soumya92/barista/outputs"
-	testBar "github.com/soumya92/barista/testing/bar"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/watchers/netlink"
+	"github.com/shibumi/barista/outputs"
+	testBar "github.com/shibumi/barista/testing/bar"
 )
 
 func TestNetinfo(t *testing.T) {

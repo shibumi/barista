@@ -17,8 +17,8 @@ package following
 import (
 	"testing"
 
-	testBar "github.com/soumya92/barista/testing/bar"
-	testModule "github.com/soumya92/barista/testing/module"
+	testBar "github.com/shibumi/barista/testing/bar"
+	testModule "github.com/shibumi/barista/testing/module"
 )
 
 func TestFollowing(t *testing.T) {

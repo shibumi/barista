@@ -17,9 +17,9 @@ package core
 import (
 	"sync"
 
-	"github.com/soumya92/barista/bar"
-	l "github.com/soumya92/barista/logging"
-	"github.com/soumya92/barista/sink"
+	"github.com/shibumi/barista/bar"
+	l "github.com/shibumi/barista/logging"
+	"github.com/shibumi/barista/sink"
 )
 
 // ModuleSet is a group of modules. It provides a channel for identifying module

@@ -25,7 +25,7 @@
 package main
 
 import "net/http"
-import "github.com/soumya92/barista/testing/httpcache"
+import "github.com/shibumi/barista/testing/httpcache"
 
 func init() {
 	http.DefaultTransport = httpcache.Wrap(http.DefaultTransport)

@@ -23,7 +23,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/soumya92/barista/testing/mockio"
+	"github.com/shibumi/barista/testing/mockio"
 
 	"github.com/stretchr/testify/require"
 )
@@ -60,14 +60,14 @@ func TestShorten(t *testing.T) {
 		fullpath string
 		expected string
 	}{
-		{"github.com/soumya92/barista.Run", "barista:Run"},
-		{"github.com/soumya92/barista.(*i3Bar).AddModule",
+		{"github.com/shibumi/barista.Run", "barista:Run"},
+		{"github.com/shibumi/barista.(*i3Bar).AddModule",
 			"barista:i3Bar.AddModule"},
-		{"github.com/soumya92/barista/modules/weather/darksky.(*Provider).GetWeather",
+		{"github.com/shibumi/barista/modules/weather/darksky.(*Provider).GetWeather",
 			"mod:weather/darksky.Provider.GetWeather"},
-		{"github.com/soumya92/barista/modules/clock", "mod:clock"},
-		{"github.com/soumya92/barista/core.Module", "core:Module"},
-		{"github.com/soumya92/barista/value.(Value).Set", "bar:value.Value.Set"},
+		{"github.com/shibumi/barista/modules/clock", "mod:clock"},
+		{"github.com/shibumi/barista/core.Module", "core:Module"},
+		{"github.com/shibumi/barista/value.(Value).Set", "bar:value.Value.Set"},
 		{"github.com/golang/go/pkg.Type.Method",
 			"github.com/golang/go/pkg.Type.Method"},
 		{"builtin.Type.Method", "builtin.Type.Method"},

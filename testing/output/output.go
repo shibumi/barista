@@ -16,7 +16,7 @@
 package output
 
 import (
-	"github.com/soumya92/barista/bar"
+	"github.com/shibumi/barista/bar"
 
 	"github.com/stretchr/testify/require"
 )

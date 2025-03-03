@@ -17,8 +17,8 @@ package counter
 import (
 	"testing"
 
-	"github.com/soumya92/barista/bar"
-	testBar "github.com/soumya92/barista/testing/bar"
+	"github.com/shibumi/barista/bar"
+	testBar "github.com/shibumi/barista/testing/bar"
 )
 
 func TestCounter(t *testing.T) {

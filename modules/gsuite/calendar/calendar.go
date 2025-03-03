@@ -19,11 +19,11 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/soumya92/barista/bar"
-	"github.com/soumya92/barista/base/value"
-	"github.com/soumya92/barista/oauth"
-	"github.com/soumya92/barista/outputs"
-	"github.com/soumya92/barista/timing"
+	"github.com/shibumi/barista/bar"
+	"github.com/shibumi/barista/base/value"
+	"github.com/shibumi/barista/oauth"
+	"github.com/shibumi/barista/outputs"
+	"github.com/shibumi/barista/timing"
 
 	"golang.org/x/oauth2/google"
 	calendar "google.golang.org/api/calendar/v3"
